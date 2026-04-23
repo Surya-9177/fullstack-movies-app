@@ -1,0 +1,72 @@
+[
+  {
+    "id": "92c2cde7-d740-443d-8929-010b46cb0305",
+    "title": "No Time to Die",
+    "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/no-time-to-die-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/no-time-to-die-movie-background-v0.png"
+  },
+  {
+    "id": "046084e1-a782-4086-b723-f98c5c57ebc0",
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/shang-chi-and-the-legend-of-the-ten-rings-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/shang-chi-and-the-legend-of-the-ten-rings-movie-background-v0.png"
+  },
+  {
+    "id": "c6ef2389-078a-4117-b2dd-1dee027e5e8e",
+    "title": "Dune",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dune-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dune-movie-background-v0.png"
+  },
+  {
+    "id": "cb4abae8-4ea4-4ee0-8a4e-6ab2ecc6163d",
+    "title": "The Suicide Squad",
+    "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of cons join the super-secret Task Force X.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-suicide-squad-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-suicide-squad-movie-background-v0.png"
+  },
+  {
+    "id": "51b4602f-b0f2-4c81-98e0-a2a409b13926",
+    "title": "Venom: Let There Be Carnage",
+    "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/venom-let-there-be-carnage-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/venom-let-there-be-carnage-movie-background-v0.png"
+  },
+  {
+    "id": "bc2d4a89-5696-40b5-b42b-8c2461d97f98",
+    "title": "Eternals",
+    "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/eternals-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/eternals-movie-background-v0.png"
+  },
+  {
+    "id": "c415e483-f9a8-4f95-9317-7b173e0cd37d",
+    "title": "Army of Thieves",
+    "overview": "A mysterious woman recruits bank teller Ludwig Dieter to lead a group of aspiring thieves.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/army-of-thieves-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/army-of-thieves-movie-background-v0.png"
+  },
+  {
+    "id": "2ae6bc9a-1c7e-41ac-af62-772b2cf024a3",
+    "title": "The Harder They Fall",
+    "overview": "Gunning for revenge, outlaw Nat Love saddles up with his gang to take down enemy Rufus Buck.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-harder-they-fall-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-harder-they-fall-movie-background-v0.png"
+  },
+  {
+    "id": "b81e7fd6-fc9e-4658-87c2-3b91ecb52170",
+    "title": "Halloween Kills",
+    "overview": "Minutes after Laurie Strode left masked monster Michael Myers caged and burning in her basement.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/halloween-kills-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/halloween-kills-movie-background-v0.png"
+  },
+  {
+    "id": "e1d03456-b0c8-4576-8ce7-c532cdfd561e",
+    "title": "Twilight",
+    "overview": "Twilight is a 2008 American romantic fantasy film based on Stephenie Meyer's novel.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/twilight-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/twilight-movie-background-v0.png"
+  }
+]

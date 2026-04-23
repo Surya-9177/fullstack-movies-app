@@ -1,0 +1,142 @@
+[
+  {
+    "id": "320dee56-fdb2-40cf-8df8-92b251bd781f",
+    "title": "Venom",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/venom-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/venom-movie-background-v0.png"
+  },
+  {
+    "id": "97c8bed0-1ee7-49c3-a95f-7619ff43f7ec",
+    "title": "Snake Eyes: G.I. Joe Origins",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/snake-eyes-gi-joe-origins-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/snake-eyes-gi-joe-origins-movie-background-v0.png"
+  },
+  {
+    "id": "69b533f3-1d6b-49b0-9bfd-a2c665c366e8",
+    "title": "The Addams Family 2",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-addams-family-2-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-addams-family-2-movie-background-v0.png"
+  },
+  {
+    "id": "b2872586-3e64-4fc0-a244-f21c2e62fb37",
+    "title": "Luca",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/luca-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/luca-movie-background-v0.png"
+  },
+  {
+    "id": "d53a2c0b-c3cc-4ed6-85a0-6ebf9b3ba79e",
+    "title": "The Amazing Spider-Man",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-amazing-spider-man-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-amazing-spider-man-movie-background-v0.png"
+  },
+  {
+    "id": "284a2caa-59d4-46b4-88bc-31a0eb07f622",
+    "title": "The Boss Baby: Family Business",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-boss-baby-family-business-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-boss-baby-family-business-movie-background-v0.png"
+  },
+  {
+    "id": "bec46af0-11d9-495b-91b1-0d5793854bc2",
+    "title": "Jungle Cruise",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/jungle-cruise-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/jungle-cruise-movie-background-v0.png"
+  },
+  {
+    "id": "e0928596-9d33-4fe5-9db6-1533dd3e6cc5",
+    "title": "Resident Evil: Welcome to Raccoon City",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/resident-evil-welcome-to-raccoon-city-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/resident-evil-welcome-to-raccoon-city-movie-background-v0.png"
+  },
+  {
+    "id": "43d2c5cb-fa5e-4930-bd90-080ba27be393",
+    "title": "Spider-Man: Far From Home",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/spider-man-far-from-home-international-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/spider-man-far-from-home-international-movie-background-v0.png"
+  },
+  {
+    "id": "75a6953e-fc4f-494c-bc8a-58e05b0f79fa",
+    "title": "Free Guy",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/free-guy-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/free-guy-movie-background-v0.png"
+  },
+  {
+    "id": "a9f97e39-c6a8-4e01-ad3c-56d5b09d1107",
+    "title": "Black Widow",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/black-widow-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/black-widow-movie-background-v0.png"
+  },
+  {
+    "id": "3511b690-4b8c-479e-bbe7-57ba9a30e2b8",
+    "title": "PAW Patrol: The Movie",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/paw-patrol-the-movie-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/paw-patrol-the-movie-movie-background-v0.png"
+  },
+  {
+    "id": "6bbf5f12-c65e-408c-9bc3-3079202a238c",
+    "title": "Ripper Untold",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/ripper-untold-british-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/ripper-untold-british-movie-background-v0.png"
+  },
+  {
+    "id": "c9bc0e64-c6fc-46aa-bbac-08bc99158980",
+    "title": "The Protégé",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-protege-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-protege-movie-background-v0.png"
+  },
+  {
+    "id": "d06939e9-02ed-47e3-958f-94d2a64bb508",
+    "title": "Gunpowder Milkshake",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/gunpowder-milkshake-british-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/gunpowder-milkshake-british-movie-background-v0.png"
+  },
+  {
+    "id": "8c288a68-9e27-422a-99a8-022a33ed0517",
+    "title": "Narnia",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/narnia-movie-poster-v0.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/narnia-movie-background-v0.png"
+  },
+  {
+    "id": "75381621-22f5-419a-a4dc-bf152b75fa42",
+    "title": "Dragon Fury",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dragon-fury-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dragon-fury-movie-background-v0.png"
+  },
+  {
+    "id": "c7b0404e-877d-47e6-bc0f-d84b61cffdaa",
+    "title": "Spider-Man",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/spider-man-advance-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/spider-man-advance-movie-background-v0.png"
+  },
+  {
+    "id": "d5ece2d3-b3a2-416c-9b9b-4f86bf271f83",
+    "title": "Space Jam: A New Legacy",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/space-jam-a-new-legacy-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/space-jam-a-new-legacy-movie-background-v0.png"
+  },
+  {
+    "id": "5f3ebcb1-eab4-4a57-ac8e-947e652fe6d1",
+    "title": "Mortal Kombat",
+    "overview": null,
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/mortal-kombat-international-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/mortal-kombat-international-movie-background-v0.png"
+  }
+]

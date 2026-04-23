@@ -1,0 +1,72 @@
+[
+  {
+    "id": "efb33428-5527-44d0-a713-1aeef4d56968",
+    "title": "Death Proof",
+    "overview": "Austin's hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/grindhouse-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/grindhouse-movie-background-v0.png"
+  },
+  {
+    "id": "6de4cbcc-b24c-4833-9314-280998e4a851",
+    "title": "Clifford",
+    "overview": "When his brother asks him to look after his young son, Clifford, Martin Daniels agrees.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/clifford-the-big-red-dog-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/clifford-the-big-red-dog-movie-background-v0.png"
+  },
+  {
+    "id": "33119fe5-3966-4bba-b98c-10b241ffc9f8",
+    "title": "Titanic",
+    "overview": "Based on accounts of the sinking of the RMS Titanic, starring Leonardo DiCaprio and Kate Winslet.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/titanic-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/titanic-movie-background-v0.png"
+  },
+  {
+    "id": "cfdd2370-ab67-4e0e-99f9-3014cb532a17",
+    "title": "Avatar",
+    "overview": "Avatar is a 2009 American epic science fiction film directed by James Cameron.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/avatar-theatrical-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/avatar-theatrical-movie-background-v0.png"
+  },
+  {
+    "id": "09f01b09-2ae9-4a9c-aa07-7d17277b920a",
+    "title": "A Few Good Men",
+    "overview": "Military lawyer Lt. Daniel Kaffee uncovers a hazing ritual that could implicate high-ranking officials.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/a-few-good-men-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/a-few-good-men-movie-background-v0.png"
+  },
+  {
+    "id": "828f0c17-3f21-4e34-9671-54dfb66fcac9",
+    "title": "Squid Game",
+    "overview": "A story involving survival games with high stakes and human drama.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/squid-game-south-korean-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/squid-game-south-korean-movie-background-v0.png"
+  },
+  {
+    "id": "978d6878-64a8-4467-8b58-d8e3b13a5501",
+    "title": "The Pursuit of Happyness",
+    "overview": "A struggling salesman takes custody of his son while pursuing a better career.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-pursuit-of-happyness-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/the-pursuit-of-happyness-movie-background-v0.png"
+  },
+  {
+    "id": "61a15a42-4443-4c83-b7c3-c7aded428ec7",
+    "title": "King Richard",
+    "overview": "The story of Richard Williams, the father and coach of Venus and Serena Williams.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/king-richard-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/king-richard-movie-background-v0.png"
+  },
+  {
+    "id": "82846610-9daa-4184-b3eb-b2825bad739a",
+    "title": "Dexter: New Blood",
+    "overview": "A story involving a CIA agent and a geneticist fighting against a deadly threat.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dexter-new-blood-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/dexter-new-blood-movie-background-v0.png"
+  },
+  {
+    "id": "9d2fdd4b-948a-4258-aa75-953612298d4d",
+    "title": "Riverdale",
+    "overview": "A drama series revolving around high school life and mysteries in a small town.",
+    "poster_path": "https://assets.ccbp.in/frontend/react-js/movies-app/riverdale-movie-poster.png",
+    "backdrop_path": "https://assets.ccbp.in/frontend/react-js/movies-app/riverdale-movie-background-v0.png"
+  }
+]
